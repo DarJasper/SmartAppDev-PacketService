@@ -7,17 +7,26 @@
     <StackLayout>
         
         <Label>Gewicht Pakket:</Label>
-        <Entry/>
+        <Entry Text="{ Binding SelectedWeight}"/>
 
         <Label>Koerier</Label>
-        <Picker/>
+        <Picker x:Name="PCourier"
+                ItemsSource="{ Binding Couriers }"
+                SelectedItem="{ Binding SelectedCourier}"
+                ItemDisplayBinding="{ Binding Name}"
+                Title="Selecteer een koerier"/>
 
 
         <Label>Versturen Naar</Label>
-        <Picker/>
+        <Picker x:Name="PCountry"
+                ItemsSource="{ Binding Countries }" 
+                SelectedItem="{ Binding SelectedCountry}"
+                ItemDisplayBinding="{ Binding Name}"
+                Title="Selecteer een land"/>
 
-        <Button Text="Bereken"/>
-        <Label></Label>
+        <Button Text="Bereken" Command="{Binding CalculateCommand}"/>
+        <Label Text="{ Binding CalculatedPrice }"></Label>
+        <Label Text="{ Binding ErrorText}"></Label>
         
     </StackLayout>
 

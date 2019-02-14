@@ -12,6 +12,8 @@ namespace PakketApp
         public MainPage()
         {
             InitializeComponent();
+            //Hier wordt alles aangemaakt
+            BindingContext = App.ViewModelLocator.MainPageViewModel;
         }
     }
 }

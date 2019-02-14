@@ -398,11 +398,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source2\\LaboSmartAppDev\\Week1\\PakketApp\\PakketApp\\PakketApp\\PakketApp.csproj",
+      "projectUniqueName": "C:\\Source2\\LaboSmartAppDev\\Week1\\SmartAppDev-PacketService\\PakketApp\\PakketApp\\PakketApp\\PakketApp.csproj",
       "projectName": "PakketApp",
-      "projectPath": "C:\\Source2\\LaboSmartAppDev\\Week1\\PakketApp\\PakketApp\\PakketApp\\PakketApp.csproj",
+      "projectPath": "C:\\Source2\\LaboSmartAppDev\\Week1\\SmartAppDev-PacketService\\PakketApp\\PakketApp\\PakketApp\\PakketApp.csproj",
       "packagesPath": "C:\\Users\\jaspe\\.nuget\\packages\\",
-      "outputPath": "C:\\Source2\\LaboSmartAppDev\\Week1\\PakketApp\\PakketApp\\PakketApp\\obj\\",
+      "outputPath": "C:\\Source2\\LaboSmartAppDev\\Week1\\SmartAppDev-PacketService\\PakketApp\\PakketApp\\PakketApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

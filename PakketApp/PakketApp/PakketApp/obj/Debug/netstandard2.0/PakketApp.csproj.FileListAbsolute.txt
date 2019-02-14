@@ -6,3 +6,15 @@ C:\Source2\LaboSmartAppDev\Week1\PakketApp\PakketApp\PakketApp\obj\Debug\netstan
 C:\Source2\LaboSmartAppDev\Week1\PakketApp\PakketApp\PakketApp\obj\Debug\netstandard2.0\PakketApp.csproj.CoreCompileInputs.cache
 C:\Source2\LaboSmartAppDev\Week1\PakketApp\PakketApp\PakketApp\obj\Debug\netstandard2.0\PakketApp.AssemblyInfoInputs.cache
 C:\Source2\LaboSmartAppDev\Week1\PakketApp\PakketApp\PakketApp\obj\Debug\netstandard2.0\PakketApp.AssemblyInfo.cs
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp\obj\Debug\netstandard2.0\PakketApp.csproj.CoreCompileInputs.cache
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp\obj\Debug\netstandard2.0\PakketApp.AssemblyInfoInputs.cache
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp\obj\Debug\netstandard2.0\PakketApp.AssemblyInfo.cs
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp\bin\Debug\netstandard2.0\PakketApp.deps.json
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp\bin\Debug\netstandard2.0\PakketApp.dll
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp\bin\Debug\netstandard2.0\PakketApp.pdb
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp\obj\Debug\netstandard2.0\PakketApp.csprojAssemblyReference.cache
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp\obj\Debug\netstandard2.0\PakketApp.dll
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp\obj\Debug\netstandard2.0\PakketApp.pdb

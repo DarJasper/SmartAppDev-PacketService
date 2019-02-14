@@ -1,0 +1,8 @@
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp.iOS\obj\iPhoneSimulator\Debug\PakketApp.iOS.csprojAssemblyReference.cache
+C:\Source2\LaboSmartAppDev\Week1\SmartAppDev-PacketService\PakketApp\PakketApp\PakketApp.iOS\obj\iPhoneSimulator\Debug\PakketApp.iOS.csproj.CoreCompileInputs.cache
