@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PakketApp"
+             x:Class="PakketApp.MainPage">
+
+    <StackLayout>
+        
+        <Label>Gewicht Pakket:</Label>
+        <Entry/>
+
+        <Label>Koerier</Label>
+        <Picker/>
+
+
+        <Label>Versturen Naar</Label>
+        <Picker/>
+
+        <Button Text="Bereken"/>
+        <Label></Label>
+        
+    </StackLayout>
+
+</ContentPage>
