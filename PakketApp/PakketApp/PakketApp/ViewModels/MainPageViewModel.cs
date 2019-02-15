@@ -107,22 +107,20 @@ namespace PakketApp.ViewModels
             set
             {
                 errorText = value;
-                RaisePropertyChanged(() => errorText);
+                RaisePropertyChanged(() => ErrorText);
             }
         }
 
-        public void Calculate()
+        private void Calculate()
         {
-            //if (SelectedWeight == 0 || SelectedCountry == null || SelectedCourier == null)
-            //{
-            //    //Throw error
-            //    ErrorText = "Gelieve alle velden in te vullen";
-            //}
-            //else
-            //{
-                CalculatedPrice = packetService.CalculatePrice(SelectedWeight, SelectedCountry, SelectedCourier);
-            //}
-            
+            if (SelectedWeight <= 0 || SelectedCountry == null || SelectedCourier == null)
+            {
+                //Throw error
+                ErrorText = "Gelieve alle velden in te vullen";
+                return;
+            }
+            CalculatedPrice = packetService.CalculatePrice(SelectedWeight, SelectedCountry, SelectedCourier);
+            ErrorText = string.Empty;
         }
     }
 }
